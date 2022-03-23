@@ -1,0 +1,45 @@
+/* logo ortalandı */
+.logo {
+    display: block; 
+    margin:7vh auto 3vh;
+}
+/* nav kısmın ayarlandı */
+.nav {
+    background-color: rgb(238, 238, 238);
+    width: 90vw;
+    margin: 0 auto 1vh;
+    text-align: center;
+}
+/* sectionsların ayarlandı */
+.sections {
+    width: 90vw;
+    margin: 0 auto 1vh;
+    display: flex;
+    justify-content: space-between;    
+}
+/* Sol kutucuk */
+.specialSearch {
+    width:44%;
+    background-color: #62B3AA;
+    text-align: center;
+    height:fit-content;
+    padding: 1.75% 0.5%;
+}
+/* Orta kutucuk */
+.help {
+    background-color: #62B3AA;
+    height: fit-content;
+    padding: 1%;
+}
+/* Sağ kutucuk */
+.mail {
+    width:44%;
+    background-color: #62B3AA;
+    text-align: center;
+    height: fit-content;
+    padding-bottom: 1.5%;
+}
+/* p birimin marginini sıfırlandığı kısım */
+.sctn {
+    margin:0vh;
+}
